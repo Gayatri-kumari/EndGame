@@ -26,12 +26,13 @@ The objective is to "save the world from assembly language" by guessing words co
 
 1. **Hints Carousel** – Custom hints for all words, displayed in a carousel format(you can swipe through the hints to see all the hints) with the latest hint displayed first. **Maximum of 3 hints per game**. (Created a custom hint library with 3 hints for each word)
 2. **Hint Button with Limited Chances** – Using a hint decreases the number of guesses left.
-3. **Number of Guesses Left Animation** – Visual display updating remaining chances dynamically.  
-4. **Keyboard Feedback Animation** – Wrong character presses are animated for better UX.  
-5. **Automatic Reveal on Loss** – If the player loses, the missed word is displayed with an animated red highlight.  
-6. **Info Button** – Explains the game objective and instructions for new players.  
-7. **Overall UX Improvements** – Small styling tweaks and interactive animations to make the game more engaging.
-8. **Responsive**
+3. **Game Rules Modal** - Modal which helps the players to understand the game
+4. **Number of Guesses Left Animation** – Visual display updating remaining chances dynamically.  
+5. **Keyboard Feedback Animation** – Wrong character presses are animated for better UX.  
+6. **Automatic Reveal on Loss** – If the player loses, the missed word is displayed with an animated red highlight.  
+7. **Info Button** – Explains the game objective and instructions for new players.  
+8. **Overall UX Improvements** – Small styling tweaks and interactive animations to make the game more engaging.
+9. **Responsive**
 
 ---
 
